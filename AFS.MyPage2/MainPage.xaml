@@ -7,6 +7,7 @@
     d:DesignHeight="300" d:DesignWidth="400">
 
     <Grid x:Name="LayoutRoot" Background="White">
+        <Button Content="Hallo" Click="Button_Click" HorizontalAlignment="Left" Margin="141,61,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </UserControl>
